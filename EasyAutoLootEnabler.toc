@@ -1,8 +1,8 @@
-## Interface: 100207
-## X-Min-Interface: 100207
+## Interface: 110000
+## X-Min-Interface: 110000
 ## Title: Somora's EasyAutoLootEnabler
 ## Notes: This AddOn auto enables the auto loot feature on your character.
 ## Author: Somora
-## Version: 1.02
+## Version: 1.03
 ## DefaultState: enabled
 EasyAutoLootEnabler.lua
