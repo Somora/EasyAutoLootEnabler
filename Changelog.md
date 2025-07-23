@@ -31,3 +31,6 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.09 (2025-06-29):
 - Added support for Classic and Cataclysm Classic.
+
+## Version 1.10 (2025-07-23):
+- Added support for Mists of Pandaria Classic.
