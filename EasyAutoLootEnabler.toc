@@ -2,6 +2,6 @@
 ## Title: Somora's EasyAutoLootEnabler
 ## Notes: This AddOn auto enables the auto loot feature on your character.
 ## Author: Somora
-## Version: 1.10
+## Version: 1.11
 ## DefaultState: enabled
 EasyAutoLootEnabler.lua
