@@ -37,3 +37,10 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.11 (2025-08-29):
 - Updated addon for The War Within build version 110205. (Ghosts of K'aresh)
+
+## Version 1.12 (2025-09-23):
+- Fixed TOC version number -> 110205 to 110200
+- Splitted TOC in three files -> Retail - MoP - Classic
+- Use local references for global functions to slightly improve performance.
+- Use frame:SetScript inline for clarity.
+- Add local to the frame variable for best practice.

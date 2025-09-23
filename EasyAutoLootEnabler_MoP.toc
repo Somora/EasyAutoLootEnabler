@@ -1,4 +1,4 @@
-## Interface: 110200
+## Interface: 50500
 ## Title: Somora's EasyAutoLootEnabler
 ## Version: 1.12
 ## Author: Somora
