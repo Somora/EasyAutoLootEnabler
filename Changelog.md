@@ -44,3 +44,6 @@ All notable changes to this project will be documented in this file.
 - Use local references for global functions to slightly improve performance.
 - Use frame:SetScript inline for clarity.
 - Add local to the frame variable for best practice.
+
+## Version 1.13 (2025-12-03):
+- Updated addon for The War Within build version 110207. (The Warning)
