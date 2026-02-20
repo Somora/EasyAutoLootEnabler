@@ -1,6 +1,6 @@
-## Interface: 110207
+## Interface: 120001
 ## Title: Somora's EasyAutoLootEnabler
-## Version: 1.13
+## Version: 1.14
 ## Author: Somora
 ## Notes: This AddOn auto enables the auto loot feature on your character.
 
