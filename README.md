@@ -9,12 +9,12 @@ The EasyAutoLootEnabler addon is a simple World of Warcraft addon designed to en
 
 ## Installation
 * **Download the Addon:** Download the ZIP file containing the addon.
-* **Extract the ZIP File:** Unzip the downloaded file into your World of Warcraft _retail_/Interface/AddOns directory.
-* **Verify Installation:** Restart World of Warcraft or reload your UI. You can reload your UI by typing /reload in the game chat.
-* **Check for the Button:** After installation, the minimap button should be visible around your minimap. You can click and drag the button to move it around the minimap.
+* **Extract the ZIP File:** Unzip the downloaded folder into the correct `Interface/AddOns` directory for your WoW client (`_retail_`, `_classic_era_`, or `_classic_` for MoP Classic).
+* **Verify Installation:** Restart World of Warcraft or reload your UI. You can reload your UI by typing `/reload` in the game chat.
+* **Enable the AddOn:** Make sure `EasyAutoLootEnabler` is enabled on the character select screen.
 
 ## Usage
-Once installed and enabled, the Auto Loot Enabler addon will automatically enable the auto loot feature every time you log into the game. You do not need to take any additional actions.
+Once installed and enabled, the addon automatically turns on the `autoLootDefault` setting when you log in. If auto loot is already enabled, it leaves the setting unchanged.
 
 ## Support
 If you encounter any issues or have suggestions for improvements, please feel free to reach out or submit an issue on the addon's repository page.

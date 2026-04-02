@@ -50,3 +50,9 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.14 (2026-02-20):
 - Updated addon for Midnight build version 120001.
+
+## Version 1.15 (2026-04-02):
+- Simplified the login event handler.
+- Unregister the login event after the setting is applied.
+- Updated the README to remove incorrect minimap button instructions.
+- Synced the addon version number across Retail, Classic Era, and MoP Classic TOC files.
