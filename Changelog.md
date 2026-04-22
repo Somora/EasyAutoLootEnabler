@@ -56,3 +56,6 @@ All notable changes to this project will be documented in this file.
 - Unregister the login event after the setting is applied.
 - Updated the README to remove incorrect minimap button instructions.
 - Synced the addon version number across Retail, Classic Era, and MoP Classic TOC files.
+
+## Version 1.16 (2026-04-22):
+- Updated addon for Midnight build version 120005.
