@@ -62,3 +62,6 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.17 (2026-06-17):
 - Updated addon for Midnight build version 120007.
+
+## Version 1.18 (2026-08-12):
+- Updated addon for Midnight build version 120100.
