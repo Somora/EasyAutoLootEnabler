@@ -1,4 +1,4 @@
-## Interface: 120100, 16001
+## Interface: 16001
 ## Title: Somora's EasyAutoLootEnabler
 ## Version: 1.19
 ## Author: Somora

@@ -1,6 +1,6 @@
 local CreateFrame = CreateFrame
-local GetCVarBool = GetCVarBool
-local SetCVar = SetCVar
+local GetCVarBool = (C_CVar and C_CVar.GetCVarBool) or GetCVarBool
+local SetCVar = (C_CVar and C_CVar.SetCVar) or SetCVar
 local print = print
 
 local frame = CreateFrame("FRAME", "EasyAutoLootEnablerFrame")

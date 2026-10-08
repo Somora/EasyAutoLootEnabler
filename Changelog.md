@@ -65,3 +65,8 @@ All notable changes to this project will be documented in this file.
 
 ## Version 1.18 (2026-08-12):
 - Updated addon for Midnight build version 120100.
+
+## Version 1.19 (2026-10-08):
+- Added WoW Forever Beta support for interface 16001 with a Camelot TOC and base TOC fallback.
+- Prefer the C_CVar API when available, retaining the global API fallback for other clients.
+- Documented WoW Forever Beta installation and in-game verification.
