@@ -18,7 +18,7 @@ Once installed and enabled, the addon automatically turns on the `autoLootDefaul
 
 ## Compatibility
 
-- Retail: interface `120100`.
+- Retail 12.1.5: interface `120105`.
 - Classic Era: interface `11507`.
 - Mists of Pandaria Classic: interface `50500`.
 - WoW Forever Beta 1.60.1: interface `16001`, with a dedicated `_Camelot.toc` manifest and a fallback in the base manifest.

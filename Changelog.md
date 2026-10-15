@@ -70,3 +70,7 @@ All notable changes to this project will be documented in this file.
 - Added WoW Forever Beta support for interface 16001 with a Camelot TOC and base TOC fallback.
 - Prefer the C_CVar API when available, retaining the global API fallback for other clients.
 - Documented WoW Forever Beta installation and in-game verification.
+
+## Version 1.20 (2026-10-15):
+- Updated the Retail TOC interface to 120105 for patch 12.1.5.
+- Synced the addon version across all four TOC files.
