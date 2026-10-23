@@ -74,3 +74,7 @@ All notable changes to this project will be documented in this file.
 ## Version 1.20 (2026-10-15):
 - Updated the Retail TOC interface to 120105 for patch 12.1.5.
 - Synced the addon version across all four TOC files.
+
+## Version 1.21 (2026-10-23):
+- Only print the auto loot success message after confirming that the setting is enabled.
+- Synced the addon version across all four TOC files.
